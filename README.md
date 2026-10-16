@@ -134,3 +134,8 @@ uses `node24` with the upstream inputs unchanged. `test/act-workflow.yml` runs t
 Copyright 2020 The Actions Ecosystem Authors. Modifications copyright 2026 Joshua Almeida.
 
 Released under the [Apache License 2.0](./LICENSE). See [NOTICE](./NOTICE) for the list of changes.
+
+## Documentation
+
+- In-repo docs: [docs/](docs/index.md)
+- Wiki: [https://github.com/fitzyracing1/action-add-labels/wiki](https://github.com/fitzyracing1/action-add-labels/wiki)
